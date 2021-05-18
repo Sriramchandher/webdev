@@ -1,5 +1,5 @@
 function reveal()
-{   alert("Hey!How is my wbepage!Click ok for more!");
+{   alert("Hey!How is my webpage!Click ok for more!");
     document.getElementById("para").innerHTML="Place your cursor over the next heading :)";
     
     var im=document.getElementById("image").src="lap2.jpg";
