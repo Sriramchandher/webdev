@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(8, 38, 39)
+}
+h1{
+    text-decoration: underline;
+    color: rgb(235, 68, 2);
+}
+p{
+    font-style: initial;
+    color:yellow
+}
+fieldset{
+    background-color:;
+    color:ivory
+}
+
+
+button{
+    color: maroon;
+}
+h2{
+    color: ivory;
+    
+    font-weight: bolder;
+}
+div{
+    color:red;
+}
